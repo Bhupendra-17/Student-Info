@@ -1,7 +1,5 @@
 # Student-Info
 
-# Student Information & Attendance Tracker
-
 This web application allows users to view, search, and manage student information and attendance. Built with React, the app provides a clean, user-friendly interface with toggle functionality to view additional student details.
 
 ## Features
@@ -23,4 +21,17 @@ To set up and run this project locally, follow these steps:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Bhupendra-17/Student-Info.git
+
    cd Student-Info
+
+2. Install Dependencies:
+   ```bash
+   npm install
+3. Change the directory:
+   ```bash 
+   cd client
+4. Run the app:
+   ```bash
+   npm run dev
+
+- The app will be running on http://localhost:5173/
